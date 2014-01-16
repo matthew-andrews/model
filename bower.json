@@ -2,5 +2,10 @@
   "name": "model",
   "description": "A super light model",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+      "events": "git://github.com/matthew-andrews/events.git",
+      "utils": "git://github.com/matthew-andrews/utils.git#bower",
+      "mixin": "git://github.com/matthew-andrews/mixin.git#bower"
+  }
 }
