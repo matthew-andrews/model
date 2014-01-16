@@ -1,0 +1,6 @@
+{
+  "name": "model",
+  "description": "A super light model",
+  "main": "index.js",
+  "license": "MIT"
+}
