@@ -1,11 +1,10 @@
-
 'use strict';
 
 /**
  * Module Dependencies
  */
 
-var events = require('event');
+var events = require('events');
 var mixin = require('mixin');
 
 /**
