@@ -1,5 +1,5 @@
 {
-  "name": "model",
+  "name": "ftmodel",
   "description": "A super light model",
   "main": "index.js",
   "license": "MIT",
